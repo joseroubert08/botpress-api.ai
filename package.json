@@ -48,6 +48,6 @@
     "webpack-node-externals": "^1.5.4"
   },
   "dependencies": {
-    "axios": "^0.15.3"
+    "axios": "^0.21.1"
   }
 }
